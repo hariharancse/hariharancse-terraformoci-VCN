@@ -1,0 +1,3 @@
+VCN Networking,
+Creating VCN, Public Subnet, Route Table, Internet Gateway, NAT Gateway, Public Security Group
+Copy the above script file change the Compartment OCID, Region and Authentication.
